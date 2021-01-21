@@ -1,5 +1,5 @@
 ---
-title: Basic writing and formatting syntax
+title: BasiYou’re making changes in a project you don’t have write access to. Submitting a change will write it to a new branch in your fork zig-i2p/docs, so you can send a pull request.c writing and formatting syntax
 intro: Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 redirect_from:
   - /articles/basic-writing-and-formatting-syntax
@@ -9,7 +9,7 @@ versions:
   github-ae: '*'
 ---
 
-### Headings
+### Заголовки
 
 To create a heading, add one to six `#` symbols before your heading text. The number of `#` you use will determine the size of the heading.
 
@@ -21,7 +21,7 @@ To create a heading, add one to six `#` symbols before your heading text. The nu
 
 ![Rendered H1, H2, and H6 headings](/assets/images/help/writing/headings-rendered.png)
 
-### Styling text
+### Текст стиля
 
 You can indicate emphasis with bold, italic, or strikethrough text.
 
@@ -33,7 +33,7 @@ You can indicate emphasis with bold, italic, or strikethrough text.
 | Bold and nested italic | `** **` and `_ _` | | `**This text is _extremely_ important**` | **This text is _extremely_ important** |
 | All bold and italic | `*** ***` | | `***All this text is important***` | ***All this text is important*** |
 
-### Quoting text
+### Цитирование текста
 
 You can quote text with a `>`.
 
